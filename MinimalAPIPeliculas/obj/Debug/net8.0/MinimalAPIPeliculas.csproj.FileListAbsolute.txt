@@ -270,3 +270,6 @@ C:\Contra\tutoriales\.net\MinimalAPIPeliculas\obj\Debug\net8.0\refint\MinimalAPI
 C:\Contra\tutoriales\.net\MinimalAPIPeliculas\obj\Debug\net8.0\MinimalAPIPeliculas.pdb
 C:\Contra\tutoriales\.net\MinimalAPIPeliculas\obj\Debug\net8.0\MinimalAPIPeliculas.genruntimeconfig.cache
 C:\Contra\tutoriales\.net\MinimalAPIPeliculas\obj\Debug\net8.0\ref\MinimalAPIPeliculas.dll
+C:\Contra\tutoriales\.net\MinimalAPIPeliculas\obj\Debug\net8.0\MinimalAPIPeliculas.sourcelink.json
+C:\Contra\tutoriales\.net\MinimalAPIPeliculas\bin\Debug\net8.0\AutoMapper.dll
+C:\Contra\tutoriales\.net\MinimalAPIPeliculas\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

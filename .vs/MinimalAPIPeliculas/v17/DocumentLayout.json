@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Contra\\tutoriales\\.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\repositorios\\repositorioactores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\repositorios\\repositorioactores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\dtos\\crearactordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\dtos\\crearactordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\contra\\tutoriales\\.net\\minimalapipeliculas\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB0AC0-EF42-4EFC-8FDF-AEFCB0C9C971}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Program.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Program.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:10:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:31:26.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorDTO.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\DTOs\\ActorDTO.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\DTOs\\ActorDTO.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\DTOs\\ActorDTO.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\DTOs\\ActorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:30:22.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearActorDTO.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\DTOs\\CrearActorDTO.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\DTOs\\CrearActorDTO.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\DTOs\\CrearActorDTO.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\DTOs\\CrearActorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:28:19.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Entidades\\Genero.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Entidades\\Genero.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Entidades\\Genero.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Entidades\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:54:01.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositorioActores.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Repositorios\\RepositorioActores.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Repositorios\\RepositorioActores.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Repositorios\\RepositorioActores.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Repositorios\\RepositorioActores.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:16:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Entidades\\Actor.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Entidades\\Actor.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\Entidades\\Actor.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Entidades\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:30:11.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Contra\\tutoriales\\.net\\MinimalAPIPeliculas\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:29:32.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
